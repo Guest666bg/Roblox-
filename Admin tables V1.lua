@@ -622,7 +622,7 @@ f.BrickColor = BrickColor.new("Black")
  
 f.Material = "Plastic"
  
-f.Reflectance = 0.3
+f.Reflectance = 0.4
  
 f.CanCollide = false
  
